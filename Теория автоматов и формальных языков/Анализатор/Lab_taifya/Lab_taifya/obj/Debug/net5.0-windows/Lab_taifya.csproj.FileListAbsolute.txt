@@ -1,0 +1,57 @@
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.exe
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.deps.json
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.runtimeconfig.json
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.runtimeconfig.dev.json
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.dll
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\ref\Lab_taifya.dll
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.pdb
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.csprojAssemblyReference.cache
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.Form1.resources
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.Properties.Resources.resources
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.csproj.GenerateResource.cache
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.AssemblyInfoInputs.cache
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.AssemblyInfo.cs
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.csproj.CoreCompileInputs.cache
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.dll
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\ref\Lab_taifya.dll
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.pdb
+C:\Users\Наташа\source\repos\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.genruntimeconfig.cache
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.exe
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.deps.json
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.runtimeconfig.json
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.runtimeconfig.dev.json
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.dll
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.pdb
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.csproj.AssemblyReference.cache
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.Form1.resources
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.Properties.Resources.resources
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.csproj.GenerateResource.cache
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.GeneratedMSBuildEditorConfig.editorconfig
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.AssemblyInfoInputs.cache
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.AssemblyInfo.cs
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.csproj.CoreCompileInputs.cache
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.dll
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\refint\Lab_taifya.dll
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.pdb
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.genruntimeconfig.cache
+E:\Университет\Для Насти\3 семак\ТАиФЯ\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\ref\Lab_taifya.dll
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.exe
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.deps.json
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.runtimeconfig.json
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.runtimeconfig.dev.json
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.dll
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\bin\Debug\net5.0-windows\Lab_taifya.pdb
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.Form1.resources
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.Properties.Resources.resources
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.AssemblyInfo.cs
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.dll
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\refint\Lab_taifya.dll
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.pdb
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\Lab_taifya.genruntimeconfig.cache
+\\Mac\Home\Downloads\Lab_taifya (2)\Lab_taifya\Lab_taifya\obj\Debug\net5.0-windows\ref\Lab_taifya.dll
